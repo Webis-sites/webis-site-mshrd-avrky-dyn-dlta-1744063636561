@@ -8,6 +8,14 @@
   --background-end-rgb: 255, 255, 255;
   --primary-color: #45B7D1;
   --secondary-color: #FF6B6B;
+
+  --glass-bg: rgba(255, 255, 255, 0.15);
+  --glass-border: rgba(255, 255, 255, 0.2);
+  --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  --neumorphic-bg: #ecf0f1;
+  --neumorphic-shadow-light: 8px 8px 16px 0 rgba(174, 174, 192, 0.4);
+  --neumorphic-shadow-dark: -8px -8px 16px 0 rgba(255, 255, 255, 0.7);
+  --font-family-hebrew: 'Heebo', 'Assistant', sans-serif;
 }
 
 html {
