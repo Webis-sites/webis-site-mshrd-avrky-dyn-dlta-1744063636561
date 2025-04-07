@@ -16,6 +16,10 @@
   --neumorphic-shadow-light: 8px 8px 16px 0 rgba(174, 174, 192, 0.4);
   --neumorphic-shadow-dark: -8px -8px 16px 0 rgba(255, 255, 255, 0.7);
   --font-family-hebrew: 'Heebo', 'Assistant', sans-serif;
+
+  --shadow-light: 5px 5px 15px rgba(0, 0, 0, 0.05), -5px -5px 15px rgba(255, 255, 255, 0.8);
+  --shadow-dark: 5px 5px 15px rgba(0, 0, 0, 0.15), -5px -5px 15px rgba(255, 255, 255, 0.5);
+  --glass-background: rgba(255, 255, 255, 0.6);
 }
 
 html {
