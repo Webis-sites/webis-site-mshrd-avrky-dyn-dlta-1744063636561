@@ -10,6 +10,7 @@ import ServicesSection from '../components/ServicesSection';
 import CaseStudiesSection from '../components/CaseStudiesSection';
 import TestimonialsSection from '../components/TestimonialsSection';
 import FAQSection from '../components/FAQSection';
+import ContactForm from '../components/ContactForm';
 
 export default function HomePage() {
   return (
@@ -25,6 +26,7 @@ export default function HomePage() {
     <CaseStudiesSection />
     <TestimonialsSection />
     <FAQSection />
+    <ContactForm />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
