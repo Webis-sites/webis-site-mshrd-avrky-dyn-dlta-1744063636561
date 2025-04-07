@@ -25,6 +25,10 @@
   --shadow-neumorphic-md: 8px 8px 16px rgba(0, 0, 0, 0.06), -8px -8px 16px rgba(255, 255, 255, 0.8);
   --shadow-neumorphic-lg: 12px 12px 24px rgba(0, 0, 0, 0.08), -12px -12px 24px rgba(255, 255, 255, 0.8);
   --transition-default: all 0.3s ease;
+
+  --shadow-neumorphic: 5px 5px 10px rgba(0, 0, 0, 0.1), -5px -5px 10px rgba(255, 255, 255, 0.8);
+  --shadow-neumorphic-pressed: inset 3px 3px 7px rgba(0, 0, 0, 0.1), inset -3px -3px 7px rgba(255, 255, 255, 0.8);
+  --glassmorphism-border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 html {
