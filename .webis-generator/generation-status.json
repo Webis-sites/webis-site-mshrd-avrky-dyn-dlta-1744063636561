@@ -1,11 +1,96 @@
 {
-  "timestamp": "2025-04-07T22:32:24.153Z",
+  "timestamp": "2025-04-07T22:33:11.872Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 14,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "MetaTags",
+      "type": "utility",
+      "status": "pending",
+      "description": "Component for handling SEO metadata, Open Graph, and Schema markup"
+    },
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Main layout component that wraps all page content with proper RTL support"
+    },
+    {
+      "name": "Header",
+      "type": "header",
+      "status": "pending",
+      "description": "RTL Hebrew header with logo, navigation, and contact information"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL Hebrew hero section for a law firm with headline, subheadline, and CTA focused on health industry expertise"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "RTL Hebrew about section highlighting the law firm's expertise and experience in food industry legal services"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "RTL Hebrew services section showcasing the law firm's specialized legal services for the food industry"
+    },
+    {
+      "name": "CaseStudiesSection",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "RTL Hebrew case studies/portfolio section highlighting successful legal cases in the food industry"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "RTL Hebrew testimonials section featuring client feedback about the law firm's services"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "RTL Hebrew FAQ section addressing common questions about the law firm's services and processes"
+    },
+    {
+      "name": "ContactForm",
+      "type": "contact",
+      "status": "pending",
+      "description": "RTL Hebrew contact form with fields for name, phone, email, and message"
+    },
+    {
+      "name": "ExpertiseSection",
+      "type": "expertise",
+      "status": "pending",
+      "description": "RTL Hebrew section highlighting the law firm's specialized expertise in food industry legal matters"
+    },
+    {
+      "name": "TeamSection",
+      "type": "team",
+      "status": "pending",
+      "description": "RTL Hebrew team section showcasing the law firm's attorneys and their specializations"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "RTL Hebrew call-to-action section encouraging visitors to schedule a consultation"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "RTL Hebrew footer with contact information, navigation, and legal information"
+    }
+  ],
   "repoName": "webis-site-mshrd-avrky-dyn-dlta-1744063636561"
 }
