@@ -53,6 +53,10 @@
   --shadow-neumorphic-hover: 15px 15px 30px rgba(0, 0, 0, 0.07), -15px -15px 30px rgba(255, 255, 255, 0.9);
 
   --button-shadow-hover: 6px 6px 10px #c5c5c5, -6px -6px 10px #ffffff;
+
+  --shadow-glass: 0 8px 32px rgba(0, 0, 0, 0.1);
+  --border-glass: 1px solid rgba(255, 255, 255, 0.18);
+  --transition-smooth: all 0.3s cubic-bezier(0.43, 0.13, 0.23, 0.96);
 }
 
 html {
