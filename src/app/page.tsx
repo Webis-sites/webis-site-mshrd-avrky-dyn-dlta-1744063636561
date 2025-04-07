@@ -3,6 +3,7 @@
 import React from 'react';
 import MetaTags from '../components/MetaTags';
 import Layout from '../components/Layout';
+import Header from '../components/Header';
 
 export default function HomePage() {
   return (
@@ -11,6 +12,7 @@ export default function HomePage() {
         {/* כאן יתווספו הקומפוננטות שייווצרו על ידי המחולל */}
         <MetaTags />
     <Layout />
+    <Header />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
