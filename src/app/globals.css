@@ -51,6 +51,8 @@
   --glassmorphism-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
 
   --shadow-neumorphic-hover: 15px 15px 30px rgba(0, 0, 0, 0.07), -15px -15px 30px rgba(255, 255, 255, 0.9);
+
+  --button-shadow-hover: 6px 6px 10px #c5c5c5, -6px -6px 10px #ffffff;
 }
 
 html {
