@@ -20,6 +20,11 @@
   --shadow-light: 5px 5px 15px rgba(0, 0, 0, 0.05), -5px -5px 15px rgba(255, 255, 255, 0.8);
   --shadow-dark: 5px 5px 15px rgba(0, 0, 0, 0.15), -5px -5px 15px rgba(255, 255, 255, 0.5);
   --glass-background: rgba(255, 255, 255, 0.6);
+
+  --shadow-neumorphic-sm: 5px 5px 10px rgba(0, 0, 0, 0.05), -5px -5px 10px rgba(255, 255, 255, 0.8);
+  --shadow-neumorphic-md: 8px 8px 16px rgba(0, 0, 0, 0.06), -8px -8px 16px rgba(255, 255, 255, 0.8);
+  --shadow-neumorphic-lg: 12px 12px 24px rgba(0, 0, 0, 0.08), -12px -12px 24px rgba(255, 255, 255, 0.8);
+  --transition-default: all 0.3s ease;
 }
 
 html {
